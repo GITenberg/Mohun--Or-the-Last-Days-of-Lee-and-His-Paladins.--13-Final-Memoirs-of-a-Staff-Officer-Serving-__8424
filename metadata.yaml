@@ -1,0 +1,32 @@
+_repo: Mohun--Or-the-Last-Days-of-Lee-and-His-Paladins.--13-Final-Memoirs-of-a-Staff-Officer-Serving-__8424
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooke, John Esten
+    aliases:
+    - Effingham, C.
+    - Todkill, Anas
+    birthdate: 1830
+    deathdate: 1886
+    gutenberg_agent_id: '2736'
+    url: http://www.gutenberg.org/2009/agents/2736
+    wikipedia: http://en.wikipedia.org/wiki/John_Esten_Cooke
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War stories'
+- !lcc 'PS'
+- !lcsh 'Virginia -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- GITenberg
+title: "Mohun; Or, the Last Days of Lee and His Paladins.\r\nFinal Memoirs of a Staff\
+  \ Officer Serving in Virginia. from the Mss. of Colonel Surry, of Eagle's Nest."
+url: http://www.gutenberg.org/ebooks/8424
